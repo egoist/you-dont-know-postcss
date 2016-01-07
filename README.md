@@ -1,12 +1,10 @@
-# learn-from-postcss
+# You don't know PostCSS
 
-AST, Parser, CSS and more...
+[Read the articles :arrow_right:][link]
 
-## 文章列表
+[阅读文章 :arrow_right:][link]
 
-| 标题                                 | 分类      | 日期         |
-| ---------------------------------- | ------- | ---------- |
-| [PostCSS 概览](/blogs/day1-entry.md) | PostCSS | 2016-01-07 |
+[link]: /issues
 
 ## License
 
