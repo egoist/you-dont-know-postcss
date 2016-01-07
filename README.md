@@ -4,7 +4,7 @@
 
 [阅读文章 :arrow_right:][link]
 
-[link]: /issues
+[link]: ../../issues
 
 ## License
 
